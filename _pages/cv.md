@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.M. in Marketing, Southwestern University of Finance and Economics, Chengdu,China, 2023
+* B.B.A. in Fiancial Services and Marketing, Audencia Business School, Nates,France, 2023
+* MSc in Marketing(Artificial Intelligence), The Chinese University of Hong Kong,Shenzhen, 2025(E)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug-Oct,2022: Pharmaceutical Research Intern
+  * Zhongtai Securities
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec,2022-June,2023: Operations intern
+  * BigQuant
+
   
 Skills
 ======
