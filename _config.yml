@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "曾诚 Wayne Zeng"
- # avatar           :  #"profile.png"
+  avatar           : "profile.png"
   bio              : "For A Better World!"
   location         : "Shenzhen,China/Chengdu,China"
   employer         :
