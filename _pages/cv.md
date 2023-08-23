@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.M. in Marketing, Southwestern University of Finance and Economics, Chengdu,China, 2023
-* B.B.A. in Fiancial Services and Marketing, Audencia Business School, Nates,France, 2023
+* B.B.A. in Fiancial Services and Marketing, Audencia Business School, Nantes,France, 2023
 * MSc in Marketing(Artificial Intelligence), The Chinese University of Hong Kong,Shenzhen, 2025(E)
 
 Work experience
