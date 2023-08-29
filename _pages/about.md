@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zeng Cheng is an undergraduate student from [Shenzhen Financial Institute](https://sfi.cuhk.edu.cn/) , [The Chinese University of Hong Kong,Shenzhen](https://www.cuhk.edu.cn/en).
+Zeng Cheng is a postgraduate student from [Shenzhen Financial Institute](https://sfi.cuhk.edu.cn/) , [The Chinese University of Hong Kong,Shenzhen](https://www.cuhk.edu.cn/en).
 
 My research interest includes marketing analytics, artificial intelligence product, and quantitative investment.
 
