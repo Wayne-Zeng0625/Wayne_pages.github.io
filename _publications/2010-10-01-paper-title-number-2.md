@@ -8,8 +8,4 @@ venue: 'Shanghai'
 paperurl: 'https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/master/files/中国量化投资白皮书2022.pdf'
 citation: 'Zeng.C. (2023). 中国量化投资白皮书2022.'
 ---
-
-This paper is about the number 1. The number 2 is left for future work.
 [Download paper here]([https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/master/files/中国量化投资白皮书2022.pdf])
-
-Recommended citation: Zeng.C. (2023). "中国量化投资白皮书2022.".
