@@ -2,12 +2,14 @@
 title: "中国量化投资白皮书2022"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '中国量化投资白皮书2022. '
+excerpt: '本书回顾了2022年中国量化投资市场的概况.'
 date: 2023-04-01
-venue: '-'
-paperurl: 'https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/d3d2e3eddb282f1827b094d1d54f88fcc5899d54/files/%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E7%99%BD%E7%9A%AE%E4%B9%A62022.pdf'
+venue: 'Shanghai'
+paperurl: 'https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/master/files/中国量化投资白皮书2022.pdf'
 citation: 'Zeng.C. (2023). 中国量化投资白皮书2022.'
 ---
-[Download paper here]([https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/master/files/%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E7%99%BD%E7%9A%AE%E4%B9%A62022.pdf])
+
+This paper is about the number 1. The number 2 is left for future work.
+[Download paper here]([https://github.com/Wayne-Zeng0625/Wayne_pages.github.io/blob/master/files/中国量化投资白皮书2022.pdf])
 
 Recommended citation: Zeng.C. (2023). "中国量化投资白皮书2022.".
